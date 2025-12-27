@@ -4,14 +4,14 @@ import { FaExternalLinkAlt, FaGithub } from "react-icons/fa";
 
 const projects = [
   {
-    title: "Cashify Web Application",
+    title: "TuneStream",
     description:
       "Built a platform where users can sell or exchange old smartphones by estimating device value, generating quotes, and managing pickup requests.",
     image:
       "https://images.jdmagicbox.com/v2/comp/mumbai/v8/022pxx22.xx22.180927140014.f6v8/catalogue/cashify-andheri-east-mumbai-1ywdfibexk.jpg",
-    tags: ["Java", "Spring","Spring-Boot","Hibernate","JDBC","Servlet/jsp","React", "Tailwind CSS", "JavaScript"],
-    liveLink: "",
-    githubLink: "https://github.com/kumkumsahu1505/Cashify",
+    tags: ["Html","CSS","React", "Tailwind CSS", "JavaScript","MongoDB","Passport JS","Node JS","Express JS"],
+    liveLink: "https://sportify-woad.vercel.app/auth",
+    githubLink: "https://github.com/34lokeshyadav/sportify",
   },
 
   {
