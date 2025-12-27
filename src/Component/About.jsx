@@ -1,7 +1,7 @@
 import React from "react";
 import image from "../assets/myphoto.png"; 
 import resume from "../assets/resume.jpg";
-import resumepdf from "../assets/Lokeshyadav.pdf";
+import resumepdf from "../assets/LokeshYadav.pdf";
 import { IoMdDownload } from "react-icons/io";
 import { FaRegEye } from "react-icons/fa";
 
@@ -114,7 +114,7 @@ const About = () => {
           View Resume <FaRegEye className="animate-pulse"/>
         </a>
         <a 
-          href={resumepdf} 
+          href={resume} 
           download 
           className="px-5 py-2 bg-green-600 text-white rounded-xl shadow-md hover:bg-green-700  flex items-center gap-2"
         >
