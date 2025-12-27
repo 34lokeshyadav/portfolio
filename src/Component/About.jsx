@@ -114,7 +114,7 @@ const About = () => {
           View Resume <FaRegEye className="animate-pulse"/>
         </a>
         <a 
-          href={resume} 
+          href={resumepdf} 
           download 
           className="px-5 py-2 bg-green-600 text-white rounded-xl shadow-md hover:bg-green-700  flex items-center gap-2"
         >
