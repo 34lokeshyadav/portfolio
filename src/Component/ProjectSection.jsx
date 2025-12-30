@@ -28,7 +28,7 @@ const projects = [
   {
     title: "SecurePay",
     description:
-      "**SecurePay** is a fast and reliable payment gateway that ensures safe, seamless, and encrypted digital transactions for businesses and customers.",
+      "SecurePay is a fast and reliable payment gateway that ensures safe, seamless, and encrypted digital transactions for businesses and customers.",
     image:
       "https://static.vecteezy.com/system/resources/thumbnails/029/899/733/small/secure-payment-credit-card-icon-with-shield-secure-transaction-stock-illustration-vector.jpg",
     tags: ["Html","CSS","React", "Tailwind CSS", "JavaScript","MongoDB","Passport JS","Node JS","Express JS"],
