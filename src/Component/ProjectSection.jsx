@@ -8,96 +8,96 @@ const projects = [
     description:
       "Built a platform where users can sell or exchange old smartphones by estimating device value, generating quotes, and managing pickup requests.",
     image:
-      "https://images.jdmagicbox.com/v2/comp/mumbai/v8/022pxx22.xx22.180927140014.f6v8/catalogue/cashify-andheri-east-mumbai-1ywdfibexk.jpg",
+      "https://media.istockphoto.com/id/1241459865/photo/listen-music-online-concept-online-music-player-app-on-smartphone.jpg?s=2048x2048&w=is&k=20&c=zN0CIvHsWICgqWgHtzF_a9a_giXlGez8YTxOVrGHZrM=",
     tags: ["Html","CSS","React", "Tailwind CSS", "JavaScript","MongoDB","Passport JS","Node JS","Express JS"],
     liveLink: "https://sportify-woad.vercel.app/auth",
     githubLink: "https://github.com/34lokeshyadav/sportify",
   },
 
   {
-    title: "Entry Manager",
+    title: "Code Editor",
     description:
-      "Created a full-stack CRUD dashboard where users can insert, update, view, and delete records, with data securely stored in MySQL.",
+      "A code editor is a software tool used to write, edit, and manage source code efficiently with features like syntax highlighting and auto-completion",
     image:
-      "https://images.unsplash.com/photo-1558959357-685f9c7ace7b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    tags: ["Java", "Spring","Spring-Boot","Spring Data-Jpa","React", "Tailwind CSS", "JavaScript"],
+      "https://repository-images.githubusercontent.com/468515960/b53b1828-3bcf-4875-94b2-10990bdd5371",
+    tags: ["Html","CSS","React", "Tailwind CSS", "JavaScript","MongoDB","Passport JS","Node JS","Express JS"],
     liveLink: "",
-    githubLink: "https://github.com/kumkumsahu1505/Entry_Manager",
+    githubLink: "https://github.com/34lokeshyadav/Code-editor",
   },
 
   {
-    title: "Question Bank",
+    title: "SecurePay",
     description:
-      "Developed a REST-based system to upload questions (CSV), store them in a database, and manage search, filter, and retrieval for exams.",
+      "**SecurePay** is a fast and reliable payment gateway that ensures safe, seamless, and encrypted digital transactions for businesses and customers.",
     image:
-      "https://images.unsplash.com/photo-1599658880436-c61792e70672?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    tags: ["Java", "Spring","Spring-Boot","Spring Data-Jpa","React", "Tailwind CSS", "JavaScript"],
-    liveLink: "",
-    githubLink: "https://github.com/kumkumsahu1505/Question_Bank",
+      "https://static.vecteezy.com/system/resources/thumbnails/029/899/733/small/secure-payment-credit-card-icon-with-shield-secure-transaction-stock-illustration-vector.jpg",
+    tags: ["Html","CSS","React", "Tailwind CSS", "JavaScript","MongoDB","Passport JS","Node JS","Express JS"],
+    liveLink: "https://payment-nu-weld.vercel.app/",
+    githubLink: "https://github.com/34lokeshyadav/payment",
   },
 
-  {
-    title: "FitClub Gym Website",
-    description:
-      "A modern fitness website with responsive design, and membership features.",
-    image:
-      "https://images.unsplash.com/photo-1554284126-aa88f22d8b74?auto=format&fit=crop&w=1470&q=80",
-    tags: ["React", "Tailwind CSS", "JavaScript"],
-    liveLink: "fitclub-mauve.vercel.app",
-    githubLink: "https://github.com/kumkumsahu1505/Fitclub",
-  },
+  // {
+  //   title: "FitClub Gym Website",
+  //   description:
+  //     "A modern fitness website with responsive design, and membership features.",
+  //   image:
+  //     "https://images.unsplash.com/photo-1554284126-aa88f22d8b74?auto=format&fit=crop&w=1470&q=80",
+  //   tags: ["React", "Tailwind CSS", "JavaScript"],
+  //   liveLink: "fitclub-mauve.vercel.app",
+  //   githubLink: "https://github.com/kumkumsahu1505/Fitclub",
+  // },
 
 
-  {
-    title: "Apple Vision",
-    description:
-      "A sleek product showcase inspired by Apple Vision Pro with smooth animations and 3D effects.",
-    image:
-      "https://images.unsplash.com/photo-1580948717721-b653147d26dd?q=80&w=735&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    tags: ["Html","Css" ,"Gsap"],
-    liveLink: "https://kumkumsahu1505.github.io/VisionPro/",
-    githubLink: "https://github.com/kumkumsahu1505/VisionPro",
-  },
-  {
-    title: "Employee Management System",
-    description:
-      "A web application to manage employees and admin interaction for the task assignment , and keep the track of assigned task with authentication.",
-    image:
-      "https://images.unsplash.com/photo-1557425493-6f90ae4659fc?auto=format&fit=crop&w=1470&q=80",
-    tags: ["React","Tailwind csss", "Node.js", "MongoDB"],
-    liveLink: "https://your-ems-live-link.com",
-    githubLink: "https://github.com/kumkumsahu1505/Employee-Management-System",
-  },
-  {
-    title: "Duo Studio",
-    description:
-      "A portfolio and branding website for a creative agency with modern layouts and animations.",
-    image:
-      "https://images.unsplash.com/photo-1504805572947-34fad45aed93?auto=format&fit=crop&w=1470&q=80",
-    tags: ["React", "GSAP", "Tailwind CSS"],
-    liveLink: "https://kumkumsahu1505.github.io/DuoStudio/",
-    githubLink: "https://github.com/kumkumsahu1505/DuoStudio",
-  },
-  {
-    title: "URL Shortener",
-    description:
-      "A simple and fast tool to shorten long URLs with analytics tracking.",
-    image:
-      "https://images.pexels.com/photos/6937932/pexels-photo-6937932.jpeg",
-    tags: ["Node.js", "Express", "MongoDB","Recat js"],
-    liveLink: "https://your-url-shortener-live-link.com",
-    githubLink: "https://github.com/kumkumsahu1505/urlShortner",
-  },
-  {
-    title: "CRUD Operation App",
-    description:
-      "A basic CRUD application to create, read, update, and delete data using a REST API.",
-    image:
-      "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=1470&q=80",
-    tags: ["React", "Node.js", "Express"],
-    liveLink: "https://your-crud-app-live-link.com",
-    githubLink: "https://github.com/kumkumsahu1505/CRUD_Operation_AXIOS",
-  },
+  // {
+  //   title: "Apple Vision",
+  //   description:
+  //     "A sleek product showcase inspired by Apple Vision Pro with smooth animations and 3D effects.",
+  //   image:
+  //     "https://images.unsplash.com/photo-1580948717721-b653147d26dd?q=80&w=735&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  //   tags: ["Html","Css" ,"Gsap"],
+  //   liveLink: "https://kumkumsahu1505.github.io/VisionPro/",
+  //   githubLink: "https://github.com/kumkumsahu1505/VisionPro",
+  // },
+  // {
+  //   title: "Employee Management System",
+  //   description:
+  //     "A web application to manage employees and admin interaction for the task assignment , and keep the track of assigned task with authentication.",
+  //   image:
+  //     "https://images.unsplash.com/photo-1557425493-6f90ae4659fc?auto=format&fit=crop&w=1470&q=80",
+  //   tags: ["React","Tailwind csss", "Node.js", "MongoDB"],
+  //   liveLink: "https://your-ems-live-link.com",
+  //   githubLink: "https://github.com/kumkumsahu1505/Employee-Management-System",
+  // },
+  // {
+  //   title: "Duo Studio",
+  //   description:
+  //     "A portfolio and branding website for a creative agency with modern layouts and animations.",
+  //   image:
+  //     "https://images.unsplash.com/photo-1504805572947-34fad45aed93?auto=format&fit=crop&w=1470&q=80",
+  //   tags: ["React", "GSAP", "Tailwind CSS"],
+  //   liveLink: "https://kumkumsahu1505.github.io/DuoStudio/",
+  //   githubLink: "https://github.com/kumkumsahu1505/DuoStudio",
+  // },
+  // {
+  //   title: "URL Shortener",
+  //   description:
+  //     "A simple and fast tool to shorten long URLs with analytics tracking.",
+  //   image:
+  //     "https://images.pexels.com/photos/6937932/pexels-photo-6937932.jpeg",
+  //   tags: ["Node.js", "Express", "MongoDB","Recat js"],
+  //   liveLink: "https://your-url-shortener-live-link.com",
+  //   githubLink: "https://github.com/kumkumsahu1505/urlShortner",
+  // },
+  // {
+  //   title: "CRUD Operation App",
+  //   description:
+  //     "A basic CRUD application to create, read, update, and delete data using a REST API.",
+  //   image:
+  //     "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=1470&q=80",
+  //   tags: ["React", "Node.js", "Express"],
+  //   liveLink: "https://your-crud-app-live-link.com",
+  //   githubLink: "https://github.com/kumkumsahu1505/CRUD_Operation_AXIOS",
+  // },
 ];
 
 const ProjectSection = () => {

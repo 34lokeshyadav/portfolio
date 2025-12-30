@@ -142,7 +142,7 @@ const Contact = () => {
                     </div>
                 </div>
             </div>
-            <p className="pt-4 pl-50 text-red-600">currently the contact form is not working you can contact me on my email address : <a href="mailto:lokeshyadav5030@gmail.com" target="_blank" className="underline">lokeshyadav5030@gmail.com</a> </p>
+            <p className="pt-4 pl-50 text-red-600">currently the contact form is not working you can contact me on my email address : <a href="mailto:lokeshyadav3645@gmail.com" target="_blank" className="underline">lokeshyadav3645@gmail.com</a> </p>
         </section>
     );
 };
